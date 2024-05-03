@@ -1,3 +1,5 @@
+![alt text](Steam_logo.jpg)
+
 # Steam market analysis (Big Data EDA)
 
 This project has been realized to validate the Jedha Bootcamp certification (Big Data module).

@@ -1,4 +1,4 @@
-![alt text](Steam_market_analysis/Steam_logo.jpg)
+![alt text](Steam_logo.jpg)
 
 # Steam market analysis (Big Data EDA)
 

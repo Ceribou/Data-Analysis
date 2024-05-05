@@ -2,7 +2,7 @@
 
 # Steam market analysis (Big Data EDA)
 
-This project has been realized to validate the Jedha Bootcamp certification (Big Data module).
+This project has been realized to validate the Jedha Bootcamp certification (EDA module).
 
 The objective of this project was to conduct a global analysis of the games available on Steam's marketplace in order to better understand the video games ecosystem and today's trends.
 The EDA has been done with Databricks and Pyspark :

@@ -1,4 +1,4 @@
-![alt text](Steam_logo.jpg)
+![alt text](./img/Steam_logo.jpg)
 
 # Steam market analysis (Big Data EDA)
 
